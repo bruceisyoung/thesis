@@ -14,21 +14,20 @@ Demo: www.madsweepers.com
 
 Connect and play minesweeper on steroids! Multi-player, sabotage your friends edition.
 
-- Arrow keys to move
-- Space to reveal tiles
-- 'a' to make the other players dance
-- 's' to plant a banana
-- 'd' to shoot bullets
-- 'f' to mark mines.
+Arrow keys to move
+Space to reveal tiles
+'a' to make the other players dance
+'s' to plant a banana
+'d' to shoot bullets
+'f' to mark mines.
 
 [insert gif here]
 
-
 ## Stack
 
-- Front End: React, Redux, Babel, Webpack
-- Back End: Node, Express, Socket.io
-- Test Suite: Chai, Mocha, Sinon, JsDom
+Front End: React, Redux, Babel, Webpack
+Back End: Node, Express, Socket.io, Redis
+Test Suite: Chai, Mocha, Sinon, JsDom
 
 ## Development
 
